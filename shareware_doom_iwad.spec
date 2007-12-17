@@ -8,7 +8,6 @@ Source0:	%{name}.zip
 License:	Shareware
 Group:		Games/Arcade
 URL:		http://www.doomworld.com/classicdoom/info/shareware.php
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 %description
 Shareware Doom v1.9 iwad.
 
