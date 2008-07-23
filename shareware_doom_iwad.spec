@@ -1,7 +1,7 @@
 Name:		shareware_doom_iwad
 BuildArch:	noarch
 Version:	1.9
-Release:	%mkrel 0
+Release:	%mkrel 1
 Summary:	Doom v1.9 shareware iwad
 # http://www.3ddownloads.com/showfile.php3?file_id=7486
 Source0:	%{name}.zip
