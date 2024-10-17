@@ -7,7 +7,7 @@ Summary:	Doom v1.9 shareware iwad
 Source0:	%{name}.zip
 License:	Shareware
 Group:		Games/Arcade
-URL:		http://www.doomworld.com/classicdoom/info/shareware.php
+URL:		https://www.doomworld.com/classicdoom/info/shareware.php
 %description
 Shareware Doom v1.9 iwad.
 
